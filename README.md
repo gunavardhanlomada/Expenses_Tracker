@@ -65,8 +65,8 @@ python manage.py migrate
 
   <h2>🙇‍♂️ Author</h2>
   <ul>
-    <li><strong>Your Name</strong></li>
-    <li>GitHub: <a href="https://github.com/your-username">your-username</a></li>
+    <li><strong>Guna Vardhan Reddy Lomada</strong></li>
+    <li>GitHub: <a href="https://github.com/gunavardhanlomada">gunavardhanlomada</a></li>
   </ul>
 
   <p>Feel free to contribute or open issues for improvements!</p>
